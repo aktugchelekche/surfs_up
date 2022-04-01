@@ -19,36 +19,36 @@ Lastly, I created a query that will extract each data for month of December and 
 # Results :
 
 
-1- Statistics for  June :
+1- Statistics for June included Precipitation Data:
 * Temperature
   * Average Tempurature   : 74.94 F
   * Max/Min Tempurature   : 85/64 F 
 
-<img width="147" alt="Screen Shot 2022-03-31 at 6 15 49 PM" src="https://user-images.githubusercontent.com/98676400/161164623-aa14df4f-1a23-4b4f-973c-eb0a99978088.png">
 
 * Precipitation
   * Average Precipitation   : 0.136360 inches
   * Max/Min Precipitation   : 4.430000/0 inches 
 
-<img width="180" alt="Screen Shot 2022-03-31 at 6 13 48 PM" src="https://user-images.githubusercontent.com/98676400/161164408-02bab3c2-a971-42a3-82c7-ac34052c1e8a.png">
 
-<img width="464" alt="Screen Shot 2022-03-31 at 6 18 33 PM" src="https://user-images.githubusercontent.com/98676400/161164859-6c41b65d-1f91-4bfd-a7e1-6a12003f5b16.png">
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/98676400/161292989-754a4288-3b7d-49b6-a3e9-440017331a3b.PNG" alt="Image 1-Pivot Table" width="200" height="200" /><img src="https://user-images.githubusercontent.com/98676400/161164859-6c41b65d-1f91-4bfd-a7e1-6a12003f5b16.png" width="300" height="200" />
+</p>
 
-1- Statistics for December :
+2- Statistics for December included Precipitation Data:
 
 * Temperature
   * Average Tempurature   : 71.0 F
   * Max/Min Tempurature   : 83.0/56.0 F 
-<img width="140" alt="Screen Shot 2022-03-31 at 6 19 43 PM" src="https://user-images.githubusercontent.com/98676400/161164981-b4f6fc45-c599-4a70-9436-f62accba5eda.png">
-
 
 * Precipitation
   * Average Precipitation   : 0.22 inches
   * Max/Min Precipitation   : 6.42/0 inches 
 
-<img width="197" alt="Screen Shot 2022-03-31 at 6 20 25 PM" src="https://user-images.githubusercontent.com/98676400/161165039-06cf08a2-e1d6-4662-a6f5-21961bba6042.png">
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/98676400/161293742-5968369e-fbea-4235-8060-f3f20a23fb85.PNG" alt="Image 1-Pivot Table" width="200" height="200" /><img src="https://user-images.githubusercontent.com/98676400/161165351-f87bb80a-42b5-450a-9f01-d177dfd81026.png" width="300" height="200" />
+</p>
 
-<img width="459" alt="Screen Shot 2022-03-31 at 6 23 52 PM" src="https://user-images.githubusercontent.com/98676400/161165351-f87bb80a-42b5-450a-9f01-d177dfd81026.png">
+
 
 
 ![Average High and Low Temperature in Surf City](https://user-images.githubusercontent.com/98676400/161165255-6f845213-7d3b-45ce-aac1-d4b19b71a21c.png)
