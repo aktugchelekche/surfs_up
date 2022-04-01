@@ -31,7 +31,7 @@ Lastly, I created a query that will extract each data for month of December and 
 
 
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/98676400/161292989-754a4288-3b7d-49b6-a3e9-440017331a3b.PNG" alt="Image 1-Pivot Table" width="200" height="200" /><img src="https://user-images.githubusercontent.com/98676400/161164859-6c41b65d-1f91-4bfd-a7e1-6a12003f5b16.png" width="300" height="200" />
+<img src= "https://user-images.githubusercontent.com/98676400/161296712-45899e99-835d-415b-b2ce-35859e183e6a.PNG" alt="Image 1-Pivot Table" width="300" height="400" /><img src="https://user-images.githubusercontent.com/98676400/161164859-6c41b65d-1f91-4bfd-a7e1-6a12003f5b16.png" width="400" height="350" />
 </p>
 
 2- Statistics for December included Precipitation Data:
@@ -45,11 +45,15 @@ Lastly, I created a query that will extract each data for month of December and 
   * Max/Min Precipitation   : 6.42/0 inches 
 
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/98676400/161293742-5968369e-fbea-4235-8060-f3f20a23fb85.PNG" alt="Image 1-Pivot Table" width="200" height="200" /><img src="https://user-images.githubusercontent.com/98676400/161165351-f87bb80a-42b5-450a-9f01-d177dfd81026.png" width="300" height="200" />
+<img src= "https://user-images.githubusercontent.com/98676400/161297044-d6f666ed-5a29-4aba-be0b-47963a19c10c.PNG" alt="Image 1-Pivot Table" width="300" height="400" /><img src="https://user-images.githubusercontent.com/98676400/161165351-f87bb80a-42b5-450a-9f01-d177dfd81026.png" width="400" height="350" />
 </p>
 
 
+# Summary
 
+
+
+Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
 ![Average High and Low Temperature in Surf City](https://user-images.githubusercontent.com/98676400/161165255-6f845213-7d3b-45ce-aac1-d4b19b71a21c.png)
 
