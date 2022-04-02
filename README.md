@@ -2,11 +2,11 @@
 
 # Overview of Project :
 
-In this project, I will utilize SQLAlchemy and SQLite to create a weather analysis for a upcoming business in Oahu. I will provide with detailed statistics regarding Weather as well as Preceptation for month of June and December. 
+In this project, I will utilize SQLAlchemy and SQLite to create a weather analysis for a upcoming business in Oahu. I will provide with detailed statistics regarding Weather as well as Precipitation for month of June and December. 
 
 # Purpose of Surf Up  :
 
-Main purpose of this project is to come up with a strong data/statistical analysis that will convince the investor(s) who want ensure that this business is profitable and sustainable. Since both of surfing and ice cream businesses have similar weather expectations such as less rain and high temprature, investors like to see evidence that Oahu meets these conditions. After I run my analysis, we have sufficient evidence that Oahu is a perfect fit for this type of business according to data from 2010 thorugh 2017. 
+Main purpose of this project is to come up with a strong data/statistical analysis that will convince the investor(s) who want ensure that this business is profitable and sustainable. Since both of surfing and ice cream businesses have similar weather expectations such as less rain and high temperature, investors like to see evidence that Oahu meets these conditions. After I run my analysis, we have sufficient evidence that Oahu is a perfect fit for this type of business according to data from 2010 thorough 2017. 
 
 # Analysis
 
@@ -14,15 +14,15 @@ The first step is to use <code> create engine </code> function to set up the abi
 
 Now, I can reflect  tables with <code> prepare()</code> function. By adding this code, I will reflect the schema of our SQLite tables into our code and create mappings. After saving references to each table, I used an SQLAlchemy Session to query the database.
 
-Lastly, I created a query that will extract each data for month of December and June by usiung <code> extract </code> and convert those result to a dataframe so that I can captured statistics such as avarage temperature and precipitation . I also used Seaborn to plot these information to for clear demostratation.
+Lastly, I created a query that will extract each data for month of December and June by using <code> extract </code> and convert those result to a dataframe so that I can captured statistics such as avarage temperature and precipitation . I also used Seaborn to plot these information to for clear demonstration.
 
 # Results :
 
 
 1- Statistics for June included Precipitation Data:
 * Temperature
-  * Average Tempurature   : 74.94 F
-  * Max/Min Tempurature   : 85/64 F 
+  * Average Temperature   : 74.94 F
+  * Max/Min Temperature   : 85/64 F 
 
 
 
@@ -34,8 +34,8 @@ Lastly, I created a query that will extract each data for month of December and 
 2- Statistics for December included Precipitation Data:
 
 * Temperature
-  * Average Tempurature   : 71.0 F
-  * Max/Min Tempurature   : 83.0/56.0 F 
+  * Average Temperature   : 71.0 F
+  * Max/Min Temperature   : 83.0/56.0 F 
 
 
 <p align="center">
@@ -64,7 +64,7 @@ We can conclude that there is not much difference in the weather within June and
 width="450" height="350" />
 </p>
 
-In term of tempurature, Oahu, Hawaii carries similar weather condition similar to other cities known as surf cities. Chart above table is a great referance for surf cities from "weatherspark.com"
+In term of temperature, Oahu, Hawaii carries similar weather condition similar to other cities known as surf cities. Chart above table is a great reference for surf cities from "weatherspark.com"
 
 ### Comparasion December and June Precipitation :
 
