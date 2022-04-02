@@ -98,10 +98,17 @@ It is noticable that the max precipitation in June and December (4.43 and 6.42 i
 <img alt="Screen Shot 2022-04-01 at 9 40 48 PM" src="https://user-images.githubusercontent.com/98676400/161362685-b558bbf1-556a-4a18-8504-1d370475e0f6.png" width="400" height="300" />
 </p>
 
-Lastly, In term of precipitation , Oahu, Hawaii carries similar rain weather data  to other cities known as surf cities. Chart below table is a great reference for surf cities from "weatherspark.com"
+In term of precipitation , Oahu, Hawaii carries similar rain weather data  to other cities known as surf cities. Chart below table is a great reference for surf cities from "weatherspark.com"
 <p align="center">
 <img width="624" alt="Screen Shot 2022-04-01 at 9 40 48 PM" src="https://user-images.githubusercontent.com/98676400/161165250-9dd87a5a-c927-4202-a578-77e11e262815.png">
 </p>
+
+Lastly, in order to determine best location for the shop , follwing table is showing data recevied from each station. We seek for the optimum values such as high temp and low precipitation . WAIKIKI area (USC00519397) in Oahu, Hawaii would be good choice for the location.
+
+<p align="center">
+<img width="514" alt="Screen Shot 2022-04-01 at 10 50 00 PM" src="https://user-images.githubusercontent.com/98676400/161365087-68f4186c-6a85-4277-89ba-02394d12df92.png">
+</p>
+
 
 At the end, we have strong evidence that open a Surf and ice Cream Shop in Oahu, Hawaii would be reasonable invesment for my friend and his investor. 
 
