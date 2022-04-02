@@ -53,21 +53,46 @@ Lastly, I created a query that will extract each data for month of December and 
 * Maximum temperature in December is 83 °F and in June 85 °F.
 * Minimum temperature in December is 56 °F and in June 64 °F.
 
+<p align="center">
+<img alt="Screen Shot 2022-04-01 at 9 14 36 PM" src="https://user-images.githubusercontent.com/98676400/161361774-dc1ab4e0-8106-4181-9c32-5d0a12faffd2.png" width="450" height="350" />
+</p>
 
+We can conclude that there is not much difference in the weather within June and December this implies that we can expect mild and steady temperatures year-round. Mean and median – also known as 2nd quartile - are closely together, meaning that distribution of the data is not spread out. 
 
-* Precipitation
+<p align="center">
+<img alt="Screen Shot 2022-04-01 at 9 14 36 PM" src="https://user-images.githubusercontent.com/98676400/161165255-6f845213-7d3b-45ce-aac1-d4b19b71a21c.png"
+width="450" height="350" />
+</p>
+
+In term of tempurature, Oahu, Hawaii carries similar weather condition similar to other cities known as surf cities. Chart above table is a great referance for surf cities from "weatherspark.com"
+
+### Comparasion December and June Precipitation :
+
+In addition to temperature data, rainfall is as important as temperature for surfing business so that I have included summary statistics for " Precipitation" . 
+
+* Precipitation is more spread out in December (std = 0.5) than in June (std = 0.33).
+* June’s mean and median are 0.13 inches and 0.02 inches respectively.
+* December’s mean and median are 0.21 inches and 0.03 inches respectively.
+* Maximum rainfall in December is 6.42 inches and 4.43 inches in June.
+* Minimum rainfall in December is 0 inches and 0 inches in June.
+
+* Precipitation in June
   * Average Precipitation   : 0.136360 inches
   * Max/Min Precipitation   : 4.430000/0 inches 
+<p align="center">
+<img width="194" alt="Screen Shot 2022-04-01 at 9 25 37 PM" src="https://user-images.githubusercontent.com/98676400/161362128-adb019c7-3f43-4f7e-a3d4-49939bd5bc97.png">
+</p>
 
 
 
-* Precipitation
+* Precipitation in December
   * Average Precipitation   : 0.22 inches
   * Max/Min Precipitation   : 6.42/0 inches 
+<p align="center">
+<img width="192" alt="Screen Shot 2022-04-01 at 9 25 48 PM" src="https://user-images.githubusercontent.com/98676400/161362136-808e9280-9b17-44b2-ad38-eff208d5a7a2.png">
+</p>
 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
-![Average High and Low Temperature in Surf City](https://user-images.githubusercontent.com/98676400/161165255-6f845213-7d3b-45ce-aac1-d4b19b71a21c.png)
 
 ![Average Monthly Rainfall in Surf City](https://user-images.githubusercontent.com/98676400/161165250-9dd87a5a-c927-4202-a578-77e11e262815.png)
 
