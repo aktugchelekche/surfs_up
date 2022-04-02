@@ -25,9 +25,6 @@ Lastly, I created a query that will extract each data for month of December and 
   * Max/Min Tempurature   : 85/64 F 
 
 
-* Precipitation
-  * Average Precipitation   : 0.136360 inches
-  * Max/Min Precipitation   : 4.430000/0 inches 
 
 
 <p align="center">
@@ -40,9 +37,6 @@ Lastly, I created a query that will extract each data for month of December and 
   * Average Tempurature   : 71.0 F
   * Max/Min Tempurature   : 83.0/56.0 F 
 
-* Precipitation
-  * Average Precipitation   : 0.22 inches
-  * Max/Min Precipitation   : 6.42/0 inches 
 
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/98676400/161297044-d6f666ed-5a29-4aba-be0b-47963a19c10c.PNG" alt="Image 1-Pivot Table" width="300" height="400" /><img src="https://user-images.githubusercontent.com/98676400/161165351-f87bb80a-42b5-450a-9f01-d177dfd81026.png" width="400" height="350" />
@@ -51,7 +45,25 @@ Lastly, I created a query that will extract each data for month of December and 
 
 # Summary
 
+### Comparasion December and June Temperature :
 
+* Temperatures are more spread out in December (std = 3.7) than in June (std = 3.3).
+* June’s mean and median are 74.94 °F and 75.00 °F respectively.
+* December’s mean and median are 71.04 °F and 71.0 °F respectively.
+* Maximum temperature in December is 83 °F and in June 85 °F.
+* Minimum temperature in December is 56 °F and in June 64 °F.
+
+
+
+* Precipitation
+  * Average Precipitation   : 0.136360 inches
+  * Max/Min Precipitation   : 4.430000/0 inches 
+
+
+
+* Precipitation
+  * Average Precipitation   : 0.22 inches
+  * Max/Min Precipitation   : 6.42/0 inches 
 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
