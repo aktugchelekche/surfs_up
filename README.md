@@ -103,7 +103,7 @@ In term of precipitation , Oahu, Hawaii carries similar rain weather data  to ot
 <img width="624" alt="Screen Shot 2022-04-01 at 9 40 48 PM" src="https://user-images.githubusercontent.com/98676400/161165250-9dd87a5a-c927-4202-a578-77e11e262815.png">
 </p>
 
-Lastly, in order to determine best location for the shop , follwing table is showing data recevied from each station. We seek for the optimum values such as high temp and low precipitation . WAIKIKI area (USC00519397) in Oahu, Hawaii would be good choice for the location.
+Lastly, in order to determine best location for the shop , following table is showing data received from each station. We seek for the optimum values such as high temp and low precipitation. Therefore WAIKIKI area (USC00519397) in Oahu, Hawaii would be good choice for the location.
 
 <p align="center">
 <img width="514" alt="Screen Shot 2022-04-01 at 10 50 00 PM" src="https://user-images.githubusercontent.com/98676400/161365087-68f4186c-6a85-4277-89ba-02394d12df92.png">
